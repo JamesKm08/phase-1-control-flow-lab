@@ -7,7 +7,7 @@ function scuberGreetingForFeet(ride){
       return('I will gladly take your thirty bucks.')
     }
     else{
-      return('No can do.');
+      return('No can do.')
     }
     
 }
@@ -15,7 +15,6 @@ function scuberGreetingForFeet(ride){
 scuberGreetingForFeet(199);
 scuberGreetingForFeet(2001);
 scuberGreetingForFeet(2501);
-
 
 function ternaryCheckCity(city){
   // Write your code here!
@@ -28,10 +27,8 @@ function ternaryCheckCity(city){
 
   }
 
-
 ternaryCheckCity('NYC');
 ternaryCheckCity('Pittsburgh');
-
 
 function switchOnCharmFromTip(tip){
   // Write your code here!
